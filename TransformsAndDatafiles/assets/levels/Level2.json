@@ -1,0 +1,85 @@
+{
+  "GameObjects": [
+    {
+      "name": "Peebles", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "path": "assets/models/Peebles.obj",
+      "position": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "StaticEnvironmentObject"
+    }, 
+    {
+      "name": "RockR", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "path": "assets/models/Rock_A.obj", 
+      "position": [
+        20, 
+        0.0, 
+        0.0
+      ], 
+      "type": "RotatingEnvironmentObject"
+    }, 
+    {
+      "name": "TreeM", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "path": "assets/models/Tree_A.obj", 
+      "position": [
+        4.313368748008641, 
+        0.0, 
+        6.557866648099405
+      ], 
+      "type": "MovingEnvironmentObject"
+    }, 
+    {
+      "name": "duck", 
+      "orientation": [
+        1, 
+        0, 
+        0, 
+        0
+      ], 
+      "path": "assets/models/Duck.obj",
+      "position": [
+        0.5419777432684242,
+        -4.0,
+        5.752622960242332
+      ], 
+      "scale": [0.01, 0.01, 0.01 ], 
+      "type": "PlayerCharacter"
+    },
+     {
+      "name": "floor", 
+      "orientation": [
+        1.0, 
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "path": "assets/models/floor.dae", 
+      "position": [
+        0.0, 
+        0.0, 
+        0.0
+      ], 
+      "type": "StaticEnvironmentObject"
+    } 
+  ]
+}

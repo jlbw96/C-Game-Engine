@@ -1,0 +1,39 @@
+﻿  AwesomeGame.cpp
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\LoadModels.h(11,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\AwesomeGame.cpp(60,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\AwesomeGame.cpp(97,20): warning C4018:  '<': signed/unsigned mismatch
+  GLFW_EngineCore.cpp
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\AwesomeGame.cpp(120,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\LoadModels.h(11,21): warning C4018:  '<': signed/unsigned mismatch
+  jsoncpp.cpp
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\GLFW_EngineCore.cpp(89,32): warning C4305:  'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\jsoncpp.cpp(1017,29): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\jsoncpp.cpp(1018,31): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\jsoncpp.cpp(1033,29): warning C4018:  '>': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\jsoncpp.cpp(1034,31): warning C4018:  '>': signed/unsigned mismatch
+  LoadModels.cpp
+  main.cpp
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\jsoncpp.cpp(1035,31): warning C4018:  '>': signed/unsigned mismatch
+  Mesh.cpp
+  Model.cpp
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\LoadModels.h(11,21): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\Model.cpp(33,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\Model.cpp(40,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\Model.cpp(77,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\Model.cpp(80,21): warning C4018:  '<': signed/unsigned mismatch
+  MovingEnvironmentObject.cpp
+  PlayerCharacter.cpp
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\Model.cpp(115,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\PlayerCharacter.cpp(68,55): warning C4305:  '=': truncation from 'double' to 'float'
+  RotatingEnvironmentObject.cpp
+  Scene.cpp
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\PlayerCharacter.cpp(69,28): warning C4305:  '=': truncation from 'double' to 'float'
+  StaticEnvironmentObject.cpp
+  Generating Code...
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\Scene.cpp(5,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\TransformsAndDatafiles\AwesomeGame.cpp(216): warning C4715:  'AwesomeGame::loadLevelJSON': not all control paths return a value
+  glad.c
+  stb_image.c
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  TransformsAndDatafilesFinished.vcxproj -> C:\Users\Jak\Desktop\Uni Portfolio stuff\C++ Game Engine\src\Labs\..\..\bin\Win32\Debug\TransformsAndDatafilesFinished.exe
